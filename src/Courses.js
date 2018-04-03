@@ -1,8 +1,5 @@
 import './Courses.css'
 import React, { Component } from 'react';
-//import CourseSearch from './Courses.js';
-//import Delay from 'react-delay';
-//import ReactLoading from 'react-Loading';
 import { Button, Form, FormGroup, ControlLabel, FormControl } from 'react-bootstrap';
 
 export default class Courses extends Component {
@@ -142,7 +139,6 @@ export default class Courses extends Component {
   	submit(a) {
     	a.preventDefault();
     	this.setState({
-      		//loading: true
       		searchFound: false,
     	});
     	this.findCourses();
@@ -152,7 +148,6 @@ export default class Courses extends Component {
     	this.setState({
       		courseQueries: {},
       		courseList: [],
-      		//loading: false
       		searchFound: true,
 	    })
   	}
