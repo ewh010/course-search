@@ -1,0 +1,56 @@
+.container{
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+}
+
+.row1 {
+	color: orange;
+	text-align: center;
+	margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    flex-wrap: wrap;
+
+}
+
+.column1 {
+	color: orange;
+	background-color: blue; 
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+
+.form1 {
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-direction: row;
+	width: 100%;
+	padding: 0 10px 0 10px;
+}
+
+.row {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    display: flex;
+}
+
+
+
+
+
+/*.CourseForm .form .dropdown {\n        display: -ms-flexbox;\n        display: flex;\n        -ms-flex-direction: row;\n        flex-direction: row;\n        width: 100%;\n    }\n\n    
+.SearchResults .header {\n        display: -ms-flexbox;\n        display: flex;\n        -ms-flex-pack: justify;\n        justify-content: space-between;\n        -ms-flex-align: center;\n        align-items: center;\n        margin-bottom: 20px;\n    }\n\n    
+.SearchResults .header  {\n        height: 50px;\n        width: 50px;\n    }\n\n    
+.SearchResults .results {\n        font-size: 18px;\n        background-color: #c8cbd1;\n        color: #003865;\n        -webkit-box-shadow: 1px 4px 5px #999;\n        box-shadow: 1px 4px 5px #999;\n        margin: 20px 10px 20px 10px;\n    }\n\n    
+.SearchResults .allCourses {\n        display: -ms-flexbox;\n        display: flex;\n        -ms-flex-direction: column;\n        flex-direction: column;\n        -ms-flex-align: center;\n        align-items: center;\n        -ms-flex-pack: center;\n        justify-content: center;\n    }\n\n    
+.SearchResults .allCourses .course {\n        display: inline-block;\n        -ms-flex-direction: column;\n        flex-direction: column;\n        font-family: Montserrat;\n        color: black;\n        background-color: #e87722;\n        padding: 15px;\n        margin: 20px 10px 20px 10px;\n        width: 16.5em;\n    }\n\n    
+.SearchResults .extra {\n        font-family: Montserrat;\n        color: black;\n        background-color: #0082BA;\n        padding: 15px;\n        margin: 20px 10px 20px 10px;\n    }\n\n", ""]);
+*/

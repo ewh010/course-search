@@ -1,0 +1,9 @@
+.HeaderFile{
+	font-size: 20px;
+  	border-radius: 20px;
+  	background-color: blue;  
+  	color: orange;
+  	padding: 30px 50px 30px 50px;  
+  	margin: 20px 10px 20px 10px;
+  	text-align: center;
+}
