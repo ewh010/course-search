@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 //import CourseSearch from './Courses.js';
 //import Delay from 'react-delay';
 //import ReactLoading from 'react-Loading';
-import { Button, Form, FormGroup, ControlLabel, FormControl, Glyphicon } from 'react-bootstrap';
+import { Button, Form, FormGroup, ControlLabel, FormControl } from 'react-bootstrap';
 
 export default class Courses extends Component {
 	constructor(props){
